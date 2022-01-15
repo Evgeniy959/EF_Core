@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Core.Lib", "EF_Core.Lib\EF_Core.Lib.csproj", "{F4063C12-B973-4958-B7DE-01EEDE2196CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ef_Core.Model", "Ef_Core.Model\Ef_Core.Model.csproj", "{528DD111-EECF-4C35-823A-1F2A98FEE73F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Core.TestApp", "EF_Core.TestApp\EF_Core.TestApp.csproj", "{D246DC6C-9018-4F40-8718-F557D7509C43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4063C12-B973-4958-B7DE-01EEDE2196CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4063C12-B973-4958-B7DE-01EEDE2196CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4063C12-B973-4958-B7DE-01EEDE2196CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4063C12-B973-4958-B7DE-01EEDE2196CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528DD111-EECF-4C35-823A-1F2A98FEE73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528DD111-EECF-4C35-823A-1F2A98FEE73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528DD111-EECF-4C35-823A-1F2A98FEE73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528DD111-EECF-4C35-823A-1F2A98FEE73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D246DC6C-9018-4F40-8718-F557D7509C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D246DC6C-9018-4F40-8718-F557D7509C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D246DC6C-9018-4F40-8718-F557D7509C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D246DC6C-9018-4F40-8718-F557D7509C43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
